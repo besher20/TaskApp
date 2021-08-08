@@ -28,3 +28,33 @@ C:\Users\Besher Rehawee\source\repos\todoTrelloApi\todoTrelloApi\obj\Debug\net5.
 C:\Users\Besher Rehawee\source\repos\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.pdb
 C:\Users\Besher Rehawee\source\repos\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.genruntimeconfig.cache
 C:\Users\Besher Rehawee\source\repos\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\appsettings.json
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\todoTrelloApi.exe
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\todoTrelloApi.deps.json
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\todoTrelloApi.runtimeconfig.json
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\todoTrelloApi.runtimeconfig.dev.json
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\todoTrelloApi.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\ref\todoTrelloApi.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\todoTrelloApi.pdb
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.csprojAssemblyReference.cache
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.AssemblyInfoInputs.cache
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.AssemblyInfo.cs
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.csproj.CoreCompileInputs.cache
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\staticwebassets\todoTrelloApi.StaticWebAssets.Manifest.cache
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\staticwebassets\todoTrelloApi.StaticWebAssets.xml
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\scopedcss\bundle\todoTrelloApi.styles.css
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.RazorTargetAssemblyInfo.cache
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.csproj.CopyComplete
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\ref\todoTrelloApi.dll
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.pdb
+D:\Projects\TaskApp\todoTrelloApi\todoTrelloApi\obj\Debug\net5.0\todoTrelloApi.genruntimeconfig.cache

@@ -41,12 +41,7 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 #todoTrello Api
 asp.net core rest api
 
-pull the project and make build 
-you should install runtime .net core 3.1 
-and sdk .net core 3.1 
-you should have visual studio to open project 
-if you dont have visual studio you open Todo Api.exe in application folder
-"rooot/application folder /{nameProject}.exe"
-note : in both way you should install :
-runtime .net core 3.1 
-sdk .net core 3.1 
+#pull the project and make build 
+#you should install runtime .net core 3.1 
+#and sdk .net core 3.1 
+#you should have visual studio to open project 

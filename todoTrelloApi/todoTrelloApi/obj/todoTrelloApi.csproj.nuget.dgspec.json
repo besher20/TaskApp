@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj": {}
+    "D:\\Projects\\TaskApp\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj": {
+    "D:\\Projects\\TaskApp\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj",
+        "projectUniqueName": "D:\\Projects\\TaskApp\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj",
         "projectName": "todoTrelloApi",
-        "projectPath": "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj",
+        "projectPath": "D:\\Projects\\TaskApp\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj",
         "packagesPath": "C:\\Users\\Besher Rehawee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\obj\\",
+        "outputPath": "D:\\Projects\\TaskApp\\todoTrelloApi\\todoTrelloApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
