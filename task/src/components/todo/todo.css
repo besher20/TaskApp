@@ -1,0 +1,26 @@
+.todo {
+  margin: 10px;
+  display: inline-block;
+  border: 3px black solid;
+  border-radius: 20px;
+  box-shadow: aqua;
+  font-size: 22px;
+  color: beige;
+}
+.txt-h3 {
+  margin: 10px;
+  color: blacks;
+}
+.content {
+  background-color: teal;
+  width: auto;
+  border: turquoise 1px solid;
+  margin: 25px;
+  border-radius: 6px;
+}
+.task {
+  margin: 10px;
+}
+.check-input {
+  margin: 15px;
+}
