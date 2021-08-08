@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj",
+        "projectName": "todoTrelloApi",
+        "projectPath": "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\todoTrelloApi.csproj",
+        "packagesPath": "C:\\Users\\Besher Rehawee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Besher Rehawee\\source\\repos\\todoTrelloApi\\todoTrelloApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Besher Rehawee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Nugets\\MorelNugets": {},
+          "D:\\Projects\\CraftLab\\ischool.nugetpackages": {},
+          "D:\\Projects\\DetraPorject\\DetraNuget": {},
+          "D:\\Projects\\HIT\\HITSharedAssets": {},
+          "D:\\Projects\\HIT\\hit.nugetpackages": {},
+          "D:\\Projects\\IGenericControlPanelNuGet\\igenericcontrolpanelnuget": {},
+          "D:\\Projects\\craftlabcore.nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
